@@ -1,4 +1,4 @@
-project: tinymce
+project: hugerte
 kind: Removed
 body: Removed `InsertOrderedList` and `InsertUnorderedList` from core.
 time: 2024-02-12T06:53:37.417068+01:00

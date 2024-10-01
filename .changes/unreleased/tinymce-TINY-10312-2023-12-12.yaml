@@ -1,4 +1,4 @@
-project: tinymce
+project: hugerte
 kind: Fixed
 body: Heading formatting would be partially applied to the content within the `summary`
   element when the caret was positioned between words.

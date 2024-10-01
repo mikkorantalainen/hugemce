@@ -1,4 +1,4 @@
-project: tinymce
+project: hugerte
 kind: Fixed
 body: The `link_default_target` option wasn't considered when inserting a link via `quicklink` toolbar.
 time: 2024-01-12T15:12:04.121884844+01:00

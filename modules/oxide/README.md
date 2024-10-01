@@ -1,7 +1,7 @@
-# TinyMCE Oxide skin tools
-This project contains the default skins as well as tools and files needed to build your own skin for TinyMCE 7.
+# HugeRTE Oxide skin tools
+This project contains the default skins as well as tools and files needed to build your own skin for HugeRTE 7.
 
-Visit the [TinyMCE 7 documentation](https://www.tiny.cloud/docs/tinymce/7/creating-a-skin/) for instructions on how to create and build skins for TinyMCE.
+Visit the [HugeRTE 7 documentation](https://www.tiny.cloud/docs/hugerte/7/creating-a-skin/) for instructions on how to create and build skins for HugeRTE.
 
 ## Building the skins
 The build process uses [Node](http://nodejs.org/) and [Gulp](http://gulpjs.com/). Make sure you have both installed before you continue.

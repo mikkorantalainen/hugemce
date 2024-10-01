@@ -1,4 +1,4 @@
-project: tinymce
+project: hugerte
 kind: Removed
 body: Removed deprecated `template` plugin.
 time: 2024-02-23T12:25:39.49598509+10:00

@@ -1,4 +1,4 @@
-project: tinymce
+project: hugerte
 kind: Removed
 body: Removed `closeButton` from `NotificationSpec`, close button in notification
   is now rendered by default.

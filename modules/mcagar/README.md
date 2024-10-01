@@ -1,6 +1,6 @@
 # Description
 
-`mcagar` is a [`tinymce`](https://www.npmjs.com/package/tinymce) specific wrapping of [`agar`](https://www.npmjs.com/package/@ephox/agar)'s testing infrastructure. It is only a collection of modules.
+`mcagar` is a [`hugerte`](https://www.npmjs.com/package/hugerte) specific wrapping of [`agar`](https://www.npmjs.com/package/@ephox/agar)'s testing infrastructure. It is only a collection of modules.
 
 # Installation
 

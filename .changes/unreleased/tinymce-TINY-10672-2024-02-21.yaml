@@ -1,4 +1,4 @@
-project: tinymce
+project: hugerte
 kind: Changed
 body: The `tooltip` property for dialog's footer `togglebutton` is now optional.
 time: 2024-02-21T10:31:44.623621+08:00

@@ -1,4 +1,4 @@
-project: tinymce
+project: hugerte
 kind: Fixed
 body: Inline mode with persisted toolbar would show regardless of the skin being loaded,
   causing css issues

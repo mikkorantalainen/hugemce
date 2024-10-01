@@ -1,4 +1,4 @@
-project: tinymce
+project: hugerte
 kind: Fixed
 body: Directly right clicking on a ol's li in FireFox didn't enable the button `List
   Properties...` in the context menu.

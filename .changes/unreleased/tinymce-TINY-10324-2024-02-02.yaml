@@ -1,4 +1,4 @@
-project: tinymce
+project: hugerte
 kind: Added
 body: A new `trigger` property for block text pattern configurations, allowing pattern
   activation with either Space or Enter keys.

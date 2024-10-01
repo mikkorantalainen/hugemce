@@ -1,5 +1,5 @@
 # Description
-Acid implements the user interface for the TinyMCE 5 colour picker. It also exposes some modules to assist with colour calculations.
+Acid implements the user interface for the HugeRTE 5 colour picker. It also exposes some modules to assist with colour calculations.
 
 # Installation
 `acid` is available as an `npm` package.  You can install it via the npm package `@ephox/acid`
@@ -9,4 +9,4 @@ Acid implements the user interface for the TinyMCE 5 colour picker. It also expo
 
 # Usage
 
-Colour picker is an Alloy component. Usage is evolving during the TinyMCE 5 development process and will be documented at a later date.
+Colour picker is an Alloy component. Usage is evolving during the HugeRTE 5 development process and will be documented at a later date.

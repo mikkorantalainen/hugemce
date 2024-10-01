@@ -1,4 +1,4 @@
-project: tinymce
+project: hugerte
 kind: Added
 body: Added `data` to Schema as a valid element.
 time: 2024-02-13T11:30:56.228405+01:00

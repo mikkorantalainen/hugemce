@@ -1,4 +1,4 @@
-project: tinymce
+project: hugerte
 kind: Removed
 body: Removed `title` attribute for buttons with visible label.
 time: 2024-01-22T09:55:21.247474+11:00

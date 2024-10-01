@@ -1,4 +1,4 @@
-project: tinymce
+project: hugerte
 kind: Changed
 body: '`sandbox_iframes` editor option is now defaulted to `true`.'
 time: 2024-01-04T23:23:49.452082+11:00

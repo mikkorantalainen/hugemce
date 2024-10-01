@@ -1,4 +1,4 @@
-project: tinymce
+project: hugerte
 kind: Changed
 body: The DOMUtils.isEmpty API function has been modified to consider nodes containing
   only comments as empty.

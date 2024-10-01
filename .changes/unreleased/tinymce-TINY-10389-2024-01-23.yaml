@@ -1,4 +1,4 @@
-project: tinymce
+project: hugerte
 kind: Fixed
 body: Removed manually dispatching dragend event on drop in Firefox.
 time: 2024-01-23T00:02:33.888058+01:00

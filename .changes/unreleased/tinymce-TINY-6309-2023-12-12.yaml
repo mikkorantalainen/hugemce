@@ -1,4 +1,4 @@
-project: tinymce
+project: hugerte
 kind: Fixed
 body: When deleting the last row in a table, the cursor would jump to the first cell
   (top left), instead of moving to the next adjacent cell in some cases.

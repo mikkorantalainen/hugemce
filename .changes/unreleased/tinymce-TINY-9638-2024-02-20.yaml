@@ -1,4 +1,4 @@
-project: tinymce
+project: hugerte
 kind: Added
 body: Added custom tooltip for autocompleter, now visible on both mouse hover and
   keyboard focus, except single column cases.

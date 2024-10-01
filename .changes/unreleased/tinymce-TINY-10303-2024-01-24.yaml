@@ -1,4 +1,4 @@
-project: tinymce
+project: hugerte
 kind: Fixed
 body: Pressing Backspace at the start of an empty `summary` element within a `details`
   element nested in a list item no longer removes the `summary` element.

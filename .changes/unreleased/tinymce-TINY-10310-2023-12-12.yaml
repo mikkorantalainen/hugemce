@@ -1,4 +1,4 @@
-project: tinymce
+project: hugerte
 kind: Fixed
 body: Moving focus to the outside of the editor after having clicked a menu would
   not fire a `blur` event as expected.
